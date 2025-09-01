@@ -1,0 +1,5 @@
+3 Goals for backend:
+
+1. Have a clear knowledge about Git and GitHub
+2. Learn about version control system of Git and how it tracks changes.
+3. Learn about the dependencies and packages that is downloaded using git commands.
